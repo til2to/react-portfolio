@@ -1,4 +1,6 @@
 import email from '../assets/email.png';
+import powerBi from '../assets/powerBi.svg';
+import aws from '../assets/aws.svg';
 import mobile from '../assets/mobile.png';
 import api from '../assets/api.png';
 import cpp from '../assets/cpp.png';
@@ -37,6 +39,8 @@ import skype from '../assets/skype.png';
 import spotify from '../assets/spotify.png';
 
 const images = {
+  powerBi,
+  aws,
   email,
   mobile,
   api,
