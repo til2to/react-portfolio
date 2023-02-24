@@ -1,1 +1,4 @@
-# react-portfolio
+# UI/UX portfolio
+
+#reactjs
+#sanity
